@@ -1,15 +1,16 @@
 # scripts
 
-To install dependencies:
+Useful scripts for my projects
 
-```bash
-bun install
-```
+## province-map
 
-To run:
+`bun run ./province-map/index.ts`
+data is from https://datav.aliyun.com/portal/school/atlas/area_selector - no MIT license  
+台湾市级图和名称  
+名称来源于 geojson  
+geojson 被 format 过，多了很多空格
 
-```bash
-bun run index.ts
-```
+## chinese-username
 
-This project was created using `bun init` in bun v1.3.1. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+`bun run ./chinese-username/index.ts`
+二〇二〇年全国姓名报告

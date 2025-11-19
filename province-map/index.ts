@@ -1,6 +1,5 @@
 import { join } from 'path';
 
-// https://datav.aliyun.com/portal/school/atlas/area_selector - no MIT license
 // const inputPath = join(import.meta.dir, './input/datav-province.json');
 // const outputPath = join(import.meta.dir, './output/processed-province.json');
 
